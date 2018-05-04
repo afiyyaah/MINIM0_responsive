@@ -1,0 +1,82 @@
+#logo{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 10px;
+    padding-top: 10px;
+}
+.custom_nav{
+    background-color: transparent !important;
+}
+
+.nav_list ul li{
+    padding-left: 80px !important;
+}
+.nav_list ul li a{
+    font-family: 'Playfair Display' !important;
+}
+.banner_text h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #b4ad9e;
+    padding-bottom: 20px;
+}
+.banner_text h1{
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    color: #626262;
+    padding-bottom: 20px;
+}
+.banner_text p{
+    font-family: 'Playfair Display';
+    font-size: 15px;
+    color: #626262;
+    padding-bottom: 55px;
+    line-height: 25px;
+    padding-right: 26px;
+}
+.comment a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #b4ad9e;
+}
+.banner_text{
+    padding-bottom: 45px;
+}
+.feature_img{
+    padding-bottom: 33px;
+}
+.comment{
+    padding-bottom: 50px;
+}
+#newsletter{
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    color: #626262;
+    padding-bottom: 50px;
+    padding-top: 90px;
+}
+.brown_back{
+    background-color: #f0f0f0;
+}
+#input_news{
+    font-family: 'Playfair Display' !important;
+    font-size: 20px !important;
+    color: #626262 !important;
+    border-bottom: 1px solid black;
+}
+.custom_btn{
+    background-color: transparent !important;
+    color:#626262 !important; 
+    font-family: 'Playfair Display' !important;
+    border-radius: 0 !important;
+    padding:15px 30px !important;
+    margin-bottom: 150px;
+    border-color: #626262 !important;
+}
+.banner_text a{
+    color: #626262;
+    padding-left: 20px;
+}
